@@ -3,4 +3,5 @@
   padding: 10px;
   display: inline-block;
   background-color: red;
+  cursor: pointer;
 }

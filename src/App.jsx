@@ -38,6 +38,7 @@ function App() {
 
   const handleConfirm=()=>{
     alert(JSON.stringify(tiket))
+    setTiket('')
   }
 
   return (
